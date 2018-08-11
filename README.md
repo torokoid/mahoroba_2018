@@ -186,6 +186,16 @@ body::before {
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_109.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_110.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_111.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_112.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_113.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_114.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_115.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_116.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_117.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_118.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_119.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_120.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_121.JPG",
     "papa\2018\180810_まほろばの湯\JPG\Small_Size/20180810_005.JPG"
  ];
  
