@@ -215,7 +215,7 @@ body::before {
     // プロパティ「data-nav-index」に数値を割り振る
     nav.setAttribute("data-nav-index", i);
     // li要素をクラス名「nav」の子要素として追加
-    document.getElementsByClassName("nav")[0].appnendChild(nav);
+    document.getElementsByClassName("nav")[0].appendChild(nav);
  }
 
  
