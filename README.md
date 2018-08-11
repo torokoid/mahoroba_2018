@@ -24,28 +24,6 @@ font-size: 1.5em;
     transition: background 400ms
 }
 
-/*
-body { background-color: #ccffcc; }
-
-#wrap {background:none} /*PC用の背景はオフ*/
-    /*
-body::before {
-  content:"";
-  display:block;
-  position:fixed;
-  top:0;
-  left:0;
-  z-index:-1;
-  width:100%;
-  height:100vh;
- background:url(D:\papa\2018\180810_まほろばの湯\JPG\Small Size/20180810_118.JPG) center/cover no-repeat; 
-*/
-/*
-  background:url(https://torokoid.github.io/mahoroba_2018/20180810_118.JPG) center/cover no-repeat; /*fixedをトル！*/
-  -webkit-background-size:cover;/*Android4*/
-  }
-*/
-
 .slider .slider-inner li.show{
     opacity: l;
 }
