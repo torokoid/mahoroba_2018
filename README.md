@@ -44,6 +44,7 @@ body::before {
   background:url(https://torokoid.github.io/mahoroba_2018/20180810_118.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+*/
 
 .slider .slider-inner li.show{
     opacity: l;
@@ -195,13 +196,12 @@ body::before {
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_118.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_119.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_120.JPG",
- "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_121.JPG",
-    "papa\2018\180810_まほろばの湯\JPG\Small_Size/20180810_005.JPG"
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_121.JPG"
  ];
  
 
  // 画像とナビの要素を自動で追加
- for(var i =0; i < imgList.length; i++){
+ for(var i = 0; i < imgList.length; i++){
     // li要素を取得
     var slide = document.createElement("li");
     // li要素の中に画像タグを埋め込む
