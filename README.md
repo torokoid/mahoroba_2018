@@ -205,7 +205,7 @@ font-size: 1.5em;
  // クラス名「dotNavigation」にドットナビの1つの要素を格納
  var dotNavigation = document.getElementsByClassName("nav")[0].getElementsByTagName("li");
  // 「現在表示されている画像とドットナビにクラス名を付ける
- imageSlider[nowIndex].classList.add("show");
+ imageSlide[nowIndex].classList.add("show");
  dotNavigation[nowIndex].classList.add("current");
  
  // スライドがアニメーション中か判断するフラグ
