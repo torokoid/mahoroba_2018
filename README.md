@@ -76,8 +76,8 @@ body::before {
     
  <script>
  var imgList = [
- "blob/master/20180810_001.JPG",
- "blob/master/20180810_002.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_001.JPG",
+ "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_002.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_003.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_004.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_005.JPG",
@@ -255,15 +255,15 @@ body::before {
 
 // 左矢印のナビをクリックした時のイベント
 document.getElementById("arrow-prev").addEventListener("click", function(){
-    var index = nowIndex -1;
-    if(index <0){
+    var index = nowIndex - 1;
+    if(index < 0){
     index = length;
     }
     sliderSlide(index);
     }, false);
 // 右矢印のナビをクリックした時のイベント
 document.getElementById("arrow-next").addEventListener("click", function(){
-    var index = nowIndex +1;
+    var index = nowIndex + 1;
     if(index > length){
     index = 0;
     }
