@@ -203,7 +203,9 @@ font-size: 1.5em;
  // クラス名「imageSlide」に画像の1枚の要素を格納
  var imageSlide = document.getElementsByClassName("slider-inner")[0].getElementsByTagName("li");
  // クラス名「dotNavigation」にドットナビの1つの要素を格納
- var dotNavigation = document.getElementsByClassName("nav")[0].getElementsByTagName("li");
+  var dotNavigation = document.getElementsByClassName("nav")[0].getElementsByTagName("li");
+ // 「現在〇〇枚目の画像を表示している」というインデックス番号を格納する変数
+ var nowIndex = 0;
  // 「現在表示されている画像とドットナビにクラス名を付ける
  imageSlide[nowIndex].classList.add("show");
  dotNavigation[nowIndex].classList.add("current");
