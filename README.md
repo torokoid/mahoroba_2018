@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/mahoroba_2018/20180810_107.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/mahoroba_2018/IMG_1974.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
