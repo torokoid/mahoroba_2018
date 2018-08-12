@@ -57,7 +57,8 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">台風13号が通過した翌日の暑さの中、す～さんには極度の体調不良を押してご参加いただきました！</marquee></p>
-<h3>2018年の記録</h3> <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<h3>2018年の記録</h3> 
 
 <div class="slider">
     <ul class="slider-inner">
