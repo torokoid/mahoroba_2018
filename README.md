@@ -277,7 +277,7 @@ for(var i = 0; i < dotNavigation.length; i++){
     </script>
  
 
-
+<p align="right"><marquee direction="left" scrollamount="15" width="100%">8月10日,11:49、バーベキューセット搬入中の図</marquee></p>
      </body>
 </html>
 <!-- フッタ -->
