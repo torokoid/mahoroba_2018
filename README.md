@@ -31,6 +31,20 @@ font-size: 1.5em;
     background: #aaa
 }
 
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/mahoroba_2018/20180810_118.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
+
 </style>
 <!--
 <link rel="stylesheet" href="../style.css/" type="text/css">
@@ -188,8 +202,8 @@ font-size: 1.5em;
     document.getElementsByClassName("slider-inner")[0].appendChild(slide);
     // li要素を取得
     var nav = document.createElement("li");
-     nav.style.backgroundImage = "url(" + imgList[i] + ")";
-     nav.style.width = 100 / imgList.length + "%";    
+    // nav.style.backgroundImage = "url(" + imgList[i] + ")";
+    // nav.style.width = 100 / imgList.length + "%";    
     // プロパティ「data-nav-index」に数値を割り振る
     nav.setAttribute("data-nav-index", i);
     // li要素をクラス名「nav」の子要素として追加
