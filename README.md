@@ -54,8 +54,9 @@ body::before {
 <body>
 
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯、2018年8月10~11日 !!!</marquee></span></h1>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="50" width="90%">暑さの中、す～さんが極度の体調不良を押してご参加いただけました！</marquee></p>
 <h3>2018年の記録</h3>
 
 <div class="slider">
