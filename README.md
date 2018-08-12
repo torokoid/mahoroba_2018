@@ -142,7 +142,6 @@ body::before {
  "https://torokoid.github.io/mahoroba_2018/20180810_070.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_071.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_072.JPG",
- "https://torokoid.github.io/mahoroba_2018/20180810_073.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_074.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_075.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_076.JPG",
