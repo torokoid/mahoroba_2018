@@ -54,6 +54,7 @@ font-size: 1.5em;
     
  <script>
  var imgList = [
+ "https://torokoid.github.io/mahoroba/358.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_001.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_002.JPG",
  "https://github.com/torokoid/mahoroba_2018/blob/master/20180810_003.JPG",
