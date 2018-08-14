@@ -278,6 +278,7 @@ for(var i = 0; i < dotNavigation.length; i++){
  
 
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">8月10日,11:49、バーベキューセット搬入中の図</marquee></p>
+<a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank">非縮小の原画リンク（Canonのサーバー）</a>
      </body>
 </html>
 <!-- フッタ -->
