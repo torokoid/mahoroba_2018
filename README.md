@@ -279,7 +279,7 @@ for(var i = 0; i < dotNavigation.length; i++){
 
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">8月10日,11:49、バーベキューセット搬入中の図</marquee></p>
 <a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank"><p align="center">非縮小の原画リンク（Canonのサーバー）</p></a>
-
+<br><br><br><br><br>
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="blue">8月15日す～さん撮影画像を追加しました。<br>↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
 <a href="No01.JPG" class="preview"><img src="No01.JPG" alt="サンプル画像" width="700" /></a>
@@ -305,6 +305,7 @@ for(var i = 0; i < dotNavigation.length; i++){
 <a href="No21.JPG" class="preview"><img src="No21.JPG" alt="サンプル画像" width="700" /></a>
 <a href="No22.JPG" class="preview"><img src="No22.JPG" alt="サンプル画像" width="700" /></a>
 </div>
+<br><br><br><br><br>
      </body>
 </html>
 <!-- フッタ -->
