@@ -281,30 +281,30 @@ for(var i = 0; i < dotNavigation.length; i++){
 <a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank"><p align="center">非縮小の原画リンク（Canonのサーバー）</p></a>
 
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="blue">す～さん撮影画像を追加しました。↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
-<a href="No01.JPG" class="preview"><img src="No01.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No02.JPG" class="preview"><img src="No02.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No03.JPG" class="preview"><img src="No03.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No04.JPG" class="preview"><img src="No04.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No05.JPG" class="preview"><img src="No05.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No06.JPG" class="preview"><img src="No06.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No07.JPG" class="preview"><img src="No07.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No08.JPG" class="preview"><img src="No08.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No09.JPG" class="preview"><img src="No09.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No10.JPG" class="preview"><img src="No10.JPG" alt="サンプル画像" width="1500" /></a> 
-<a href="No11.JPG" class="preview"><img src="No11.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No12.JPG" class="preview"><img src="No12.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No13.JPG" class="preview"><img src="No13.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No14.JPG" class="preview"><img src="No14.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No15.JPG" class="preview"><img src="No15.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No16.JPG" class="preview"><img src="No16.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No17.JPG" class="preview"><img src="No17.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No18.JPG" class="preview"><img src="No18.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No19.JPG" class="preview"><img src="No19.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No20.JPG" class="preview"><img src="No20.JPG" alt="サンプル画像" width="1500" /></a> 
-<a href="No21.JPG" class="preview"><img src="No21.JPG" alt="サンプル画像" width="1500" /></a>
-<a href="No22.JPG" class="preview"><img src="No22.JPG" alt="サンプル画像" width="1500" /></a>
-
+<h3><span class="blue">8月15日す～さん撮影画像を追加しました。<br>↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
+<a href="No01.JPG" class="preview"><img src="No01.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No02.JPG" class="preview"><img src="No02.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No03.JPG" class="preview"><img src="No03.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No04.JPG" class="preview"><img src="No04.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No05.JPG" class="preview"><img src="No05.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No06.JPG" class="preview"><img src="No06.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No07.JPG" class="preview"><img src="No07.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No08.JPG" class="preview"><img src="No08.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No09.JPG" class="preview"><img src="No09.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No10.JPG" class="preview"><img src="No10.JPG" alt="サンプル画像" width="1000" /></a> 
+<a href="No11.JPG" class="preview"><img src="No11.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No12.JPG" class="preview"><img src="No12.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No13.JPG" class="preview"><img src="No13.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No14.JPG" class="preview"><img src="No14.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No15.JPG" class="preview"><img src="No15.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No16.JPG" class="preview"><img src="No16.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No17.JPG" class="preview"><img src="No17.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No18.JPG" class="preview"><img src="No18.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No19.JPG" class="preview"><img src="No19.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No20.JPG" class="preview"><img src="No20.JPG" alt="サンプル画像" width="1000" /></a> 
+<a href="No21.JPG" class="preview"><img src="No21.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="No22.JPG" class="preview"><img src="No22.JPG" alt="サンプル画像" width="1000" /></a>
+</div>
      </body>
 </html>
 <!-- フッタ -->
