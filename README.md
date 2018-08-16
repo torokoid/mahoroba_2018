@@ -278,7 +278,7 @@ for(var i = 0; i < dotNavigation.length; i++){
  
 
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">8月10日,11:49、バーベキューセット搬入中の図</marquee></p>
-<h4><a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank"><p align="center">非縮小の原画リンク（Canonのサーバー）</p></a></h4>
+<h5><a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank"><p align="center">非縮小の原画リンク（Canonのサーバー）</p></a></h5>
 <br><br><br><br><br>
 <h4><p><a href="https://torokoid.github.io/mahoroba_2018_su" target="_blank"><span class="blue">8月16日,す～さんの映像をサブサイトにアップしました。スライドショーで表示します。</span></a></p></h4>
 <!--
