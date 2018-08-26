@@ -280,7 +280,11 @@ for(var i = 0; i < dotNavigation.length; i++){
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">8月10日,11:49、バーベキューセット搬入中の図</marquee></p>
 <h5><a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank"><p align="center">非縮小の原画リンク（Canonのサーバー）</p></a></h5>
 <br><br><br><br><br>
-<h4><p><a href="https://torokoid.github.io/mahoroba_2018_su" target="_blank"><span class="blue">8月16日,す～さんの映像をサブサイトにアップしました。スライドショーで表示します。</span></a></p></h4>
+<h4><p><a href="https://torokoid.github.io/mahoroba_2018_su" target="_blank"><span class="blue">8月16日,す～さんの映像をサブサイトにアップしました。スライドショーで表示します。</span></a></p></h4><br><br>
+
+<h4><p><a href="https://drive.google.com/file/d/1sSax_1GwKyxccm2gtna15z7dAzZlBOgn/view?usp=sharing" target="_blank"><span class="blue">8月26日,し～さんのドラレコ映像リンクをアップしました。高解像度版</span></a></p></h4><br>
+<h4><p><a href="https://drive.google.com/file/d/1n5lZczsg8H2Dfhq187ktH6iM_9wnA8j4/view?usp=sharing" target="_blank"><span class="blue">低解像度版</span></a></p></h4><br><br>
+
 <!--
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="blue">8月15日,す～さん撮影画像を追加しました。<br>↓ 画像はクリックで拡大します。ブラウザの戻るボタンで戻れます。</span></h3>
