@@ -282,7 +282,7 @@ for(var i = 0; i < dotNavigation.length; i++){
 <br><br><br><br><br>
 <h4><p><a href="https://torokoid.github.io/mahoroba_2018_su" target="_blank"><span class="blue">8月16日,す～さんの映像をサブサイトにアップしました。スライドショーで表示します。</span></a></p></h4><br><br>
 
-<p align="right"><marquee direction="left" scrollamount="15" width="100%">8月26日,し～さんのドラレコ映像リンクをアップしました。</marquee></p>
+<h3><span class="blue">8月26日,し～さんのドラレコ映像リンクをアップしました。</span></h3>
 <h4><p><a href="https://drive.google.com/file/d/1sSax_1GwKyxccm2gtna15z7dAzZlBOgn/view?usp=sharing" target="_blank"><span class="blue">高解像度版</span></a></p></h4>
 <h4><p><a href="https://drive.google.com/file/d/1n5lZczsg8H2Dfhq187ktH6iM_9wnA8j4/view?usp=sharing" target="_blank"><span class="blue">低解像度版</span></a></p></h4><br><br>
 
