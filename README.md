@@ -19,17 +19,17 @@ font-size: 1.5em;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
 
-
+<!--
 .slider .nav li{
     transition: background 400ms
 }
-
 .slider .slider-inner li.show{
     opacity: l;
 }
 .slider .nav li.current{
     background: #aaa
 }
+-->
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
@@ -44,6 +44,24 @@ body::before {
   background:url(https://torokoid.github.io/mahoroba_2018/IMG_1974.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
+
+a.p:hover {
+    position: relative;
+    text-decoration: none;
+
+}
+a.p span {
+    display: none;
+    position: relative;
+    top: -0.5em;
+    left: 2em;
+}
+
+a.p:hover span {
+    border: none;
+    display: block;
+    width: 210px;
+}  
 
 </style>
 <!--
@@ -60,6 +78,8 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2018年の記録</h3> 
 
+
+<!--
 <div class="slider">
     <ul class="slider-inner">
     </ul>
@@ -68,8 +88,10 @@ body::before {
     <p id="arrow-prev" class="arrow">←</p>
     <p id="arrow-next" class="arrow">→</p>
     </div>
-    
- <script>
+    -->
+
+<!--
+  <script>  
  var imgList = [
  "https://torokoid.github.io/mahoroba_2018/20180810_001.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_002.JPG",
@@ -192,8 +214,9 @@ body::before {
  "https://torokoid.github.io/mahoroba_2018/20180810_120.JPG",
  "https://torokoid.github.io/mahoroba_2018/20180810_121.JPG"
  ];
+ -->
  
-
+<!--
  // 画像とナビの要素を自動で追加
  for(var i = 0; i < imgList.length; i++){
     // li要素を取得
@@ -273,9 +296,8 @@ for(var i = 0; i < dotNavigation.length; i++){
     sliderSlide(index);
     }, false);
 }
-
     </script>
- 
+ -->
 
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">8月10日,11:49、バーベキューセット搬入中の図</marquee></p>
 <h5><a href="https://opa.cig2.imagegateway.net/s/cp/album/cover/GiXChhTZCpS" target="_blank"><p align="center">非縮小の原画リンク（Canonのサーバー）</p></a></h5>
