@@ -293,9 +293,6 @@ a.p:hover span {
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_072.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_072.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_072.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_073.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_073.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
-<span><img src="https://torokoid.github.io/mahoroba_2018/20180810_073.JPG" alt="Link拡大"></span></a>
-
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_074.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_074.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_074.JPG" alt="Link拡大"></span></a>
 
