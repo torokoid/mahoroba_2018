@@ -441,6 +441,8 @@ a.p:hover span {
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_121.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_121.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_121.JPG" alt="Link拡大"></span></a>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <!--
 <div class="slider">
     <ul class="slider-inner">
@@ -698,8 +700,7 @@ for(var i = 0; i < dotNavigation.length; i++){
 </div>
 -->
 <br><br><br><br><br>
-     </body>
-</html>
+
 <!-- フッタ -->
  <footer>
  Copyright 2018/08/11 S.Hada
