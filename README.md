@@ -78,34 +78,34 @@ a.p:hover span {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2018年の記録</h3> 
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_001.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_001.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_001.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_001.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_001.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_002.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_002.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_002.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_002.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_002.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_003.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_003.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_003.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_003.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_003.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_004.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_004.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_004.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_004.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_004.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_005.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_005.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_005.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_005.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_005.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_006.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_006.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_006.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_006.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_006.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_007.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_007.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_007.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_007.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_007.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_008.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_008.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_008.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_008.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_008.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_009.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_009.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_009.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_009.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_009.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px ">・<a href="https://torokoid.github.io/mahoroba_2018/20180810_010.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_010.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba_2018/20180810_010.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba_2018/20180810_010.JPG" alt="SMBnwgw_mailtop2.jpg" height="70" width="80" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba_2018/20180810_010.JPG" alt="Link拡大"></span></a>
 <!--
 <div class="slider">
