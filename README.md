@@ -71,7 +71,7 @@ a.p:hover span {
 
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯、2018年8月10~11日 !!!</marquee></span></h1>
- <div style="background-color:rgb(255,255,255,0.3);">
+ <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">TOP</a>&gt;mahoroba_2018</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
