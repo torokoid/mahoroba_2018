@@ -72,7 +72,7 @@ a.p:hover span {
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯、2018年8月10~11日 !!!</marquee></span></h1>
  <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">TOP</a>&gt;mahoroba_2018</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">Grand_Top</a>&gt;<a href="https://torokoid.github.io/mahoroba_home/">Home</a>&gt;mahoroba_2018</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="right"><marquee direction="left" scrollamount="15" width="100%">台風13号が通過した翌日の暑さの中、す～さんには極度の体調不良を押してご参加いただきました！</marquee></p>
